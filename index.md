@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Own Description 
 
 You can use the [editor on GitHub](https://github.com/deeyajain/website-2.0/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
